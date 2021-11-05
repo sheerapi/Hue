@@ -51,4 +51,6 @@ Hue is a rhythm game/client based on Unity
 
 The concept is basically a rhythm game based on keyboard with a beautiful UI
 ## Screenshots
-![Play Page](https://github.com/sheerapi/Hue/blob/main/HomePage.png?raw=true?)
+![Play Page](https://github.com/sheerapi/Hue/blob/main/Screenshots/HomePage.png?raw=true?)
+![Game Page](https://github.com/sheerapi/Hue/blob/main/Screenshots/PlayPage.png?raw=true?)
+![Settings Page](https://github.com/sheerapi/Hue/blob/main/Screenshots/SettingsPage.png?raw=true?)

@@ -17,7 +17,7 @@ gh repo clone sheerapi/Hue
 
 #### Manual way
 ```
-Download it in zip format
+Download it in zip format and extract it
 ````
 
 and open it with unity then press play, you're done!
@@ -26,7 +26,7 @@ and open it with unity then press play, you're done!
 Go to releases, download the last setup version and enjoy!
 
 ## Contributing
-To contribute to the development of Hue commit pull requests and report issues all, with with simple templates
+To contribute to the development of Hue, commit pull requests and report issues, all, with with simple templates
 
 Issues
 ```
@@ -45,11 +45,7 @@ How hard is it (ex: 600 megabytes more, 2 months of work, etc...)
 ```
 
 ## License
-This project is under [MIT](https://www.choosealicense.com/licenses/mit)# Hue
-
-Hue is a rhythm game/client based on Unity
-
-The concept is basically a rhythm game based on keyboard with a beautiful UI
+This project is under [MIT](https://www.choosealicense.com/licenses/mit) license
 ## Screenshots
 ![Play Page](https://github.com/sheerapi/Hue/blob/main/Screenshots/HomePage.png?raw=true?)
 ![Game Page](https://github.com/sheerapi/Hue/blob/main/Screenshots/PlayPage.png?raw=true?)

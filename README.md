@@ -41,7 +41,7 @@ Pull request
 ```
 Description (short description)
 
-How hard is it (ex: 600 megabytes more, 2 months of work, etc...)
+How hard is it (example: 600 megabytes more, 2 months of work, etc...)
 ```
 
 ## License

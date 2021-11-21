@@ -46,7 +46,3 @@ How hard is it (example: 600 megabytes more, 2 months of work, etc...)
 
 ## License
 This project is under [MIT](https://www.choosealicense.com/licenses/mit) license
-## Screenshots
-![Play Page](https://github.com/sheerapi/Hue/blob/main/Screenshots/HomePage.png?raw=true?)
-![Game Page](https://github.com/sheerapi/Hue/blob/main/Screenshots/PlayPage.png?raw=true?)
-![Settings Page](https://github.com/sheerapi/Hue/blob/main/Screenshots/SettingsPage.png?raw=true?)

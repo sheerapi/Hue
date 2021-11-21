@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "115483323012",
+    "project_id": "hue-stable",
+    "storage_bucket": "hue-stable.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115483323012:android:31652ac30692f92f8e70d1",
+        "android_client_info": {
+          "package_name": "com.cosmic.hue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115483323012-v43v3o68a00vi4klq7ktkk2ish573rqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp8CD3ftlQnRQ4TGgBoStrhzTR_qjq6bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115483323012-v43v3o68a00vi4klq7ktkk2ish573rqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: c5a6b606d35556b45b130a058527cde2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Torus Pro
+  fontNames:
+  - Torus Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0313d633ec632de40824866038b403d4, type: 3}
+  - {fileID: 12800000, guid: c0950bb70df236e42b1c75b457e80e66, type: 3}
+  - {fileID: 12800000, guid: 00e418880faa5114fa9dbc8a4d92965f, type: 3}
+  - {fileID: 12800000, guid: 322ad22ddf1cfdf408b39e830d4cf0c7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

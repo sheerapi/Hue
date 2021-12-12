@@ -8,7 +8,7 @@ Clone the project
 #### Git
 ```
 git clone https://github.com/sheerapi/Hue.git
-````
+```
 
 #### GitHub CLI
 ```
